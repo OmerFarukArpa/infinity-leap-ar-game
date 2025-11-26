@@ -27,18 +27,6 @@ Although the primary target audience is children between the ages of 6 and 9, th
 
 ---
 
-## Project Owners
-
-- **Ömer Faruk Arpa** (Project Leader)  
-  First email address: [210541003@firat.edu.tr](mailto:210541003@firat.edu.tr)  
-  Second email address: [arpaomer03@gmail.com](mailto:arpaomer03@gmail.com)
-
-- **Mehmet Vural**  
-  First email address: [200541055@firat.edu.tr](mailto:200541055@firat.edu.tr)  
-  Second email address: [mehmetvural1043@gmail.com](mailto:mehmetvural1043@gmail.com)
-
----
-
 ## 💾 Installation of the Project
 
 Follow the steps below to set up and run the project.
@@ -228,12 +216,6 @@ Watch the first prototype demo of the Infinity Leap game in action. (April 5, 20
 Watch the last prototype video of the Infinity Leap game in action. (April 28, 2025)
 
 📺 [Watch the Last Prototype video(MVP)](https://youtube.com/shorts/1QmzDECa08c?feature=share)
-
----
-
-## 🎥 Promotional Video
-
-📺 [Watch the Promotional Video](https://youtu.be/AeHHuVrzFSo)
 
 ---
 
