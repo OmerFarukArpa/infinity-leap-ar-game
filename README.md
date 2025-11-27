@@ -66,7 +66,7 @@ cd ~/Documents
 
 Clone the project from GitHub:
 ```bash
-git clone https://github.com/OmerFarukArpa/guncel-konular-infinity-leap.git
+git clone https://github.com/OmerFarukArpa/infinity-leap-ar-game.git
 ```
 
 Navigate to the project directory:
