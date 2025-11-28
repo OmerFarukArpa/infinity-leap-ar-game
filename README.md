@@ -43,7 +43,7 @@ cd C:\Users\YourName\Documents
 Clone the project from GitHub:
 
 ```bash
-git clone [https://github.com/username/projectname.git](https://github.com/OmerFarukArpa/guncel-konular-infinity-leap.git)
+git clone https://github.com/OmerFarukArpa/guncel-konular-infinity-leap.git
 ```
 
 Navigate to the project directory:
