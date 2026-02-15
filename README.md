@@ -1,5 +1,19 @@
 # 🎮 Infinity Leap
 
+---
+
+## 📱 In-App Screenshots
+
+<p float="left">
+  <img src="images/image_1.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
+  <img src="images/image_2.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
+  <img src="images/image_3.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
+  <img src="images/image_4.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
+  <img src="images/image_5.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
+</p>
+
+---
+
 ## 🚀 Project Description
 
 **Infinity Leap** is a fun mobile game developed with Augmented Reality (AR) technology.  
@@ -96,18 +110,6 @@ Open the Expo Go app on your iPhone, scan the QR code, and enjoy the game.
 4. Tap again before it falls to keep it in the air.  
 5. Each successful tap increases your score.  
 6. If the ball hits the ground, the game ends and a restart option appears.
-
----
-
-## 📱 In-App Screenshots
-
-<p float="left">
-  <img src="images/image_1.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
-  <img src="images/image_2.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
-  <img src="images/image_3.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
-  <img src="images/image_4.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
-  <img src="images/image_5.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
-</p>
 
 ---
 
