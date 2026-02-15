@@ -2,6 +2,16 @@
 
 ---
 
+## 🚀 Project Description
+
+**Infinity Leap** is a fun mobile game developed with Augmented Reality (AR) technology.  
+A ball remains stationary on the screen and jumps every time you tap it, then falls down due to gravity.  
+Your goal is to tap the ball as many times as possible without letting it hit the ground!  
+The longer you keep it in the air, the more points you earn.  
+**Have fun!**
+
+---
+
 ## 📱 In-App Screenshots
 
 <p float="left">
@@ -11,16 +21,6 @@
   <img src="images/image_4.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
   <img src="images/image_5.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
 </p>
-
----
-
-## 🚀 Project Description
-
-**Infinity Leap** is a fun mobile game developed with Augmented Reality (AR) technology.  
-A ball remains stationary on the screen and jumps every time you tap it, then falls down due to gravity.  
-Your goal is to tap the ball as many times as possible without letting it hit the ground!  
-The longer you keep it in the air, the more points you earn.  
-**Have fun!**
 
 ---
 
